@@ -1,0 +1,42 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/female-breast-cancer---primary.py
+inputModule3:
+  class: File
+  path: python/breast-cancer---primary.py
+inputModule4:
+  class: File
+  path: python/breast-cancer-carcinoma---primary.py
+inputModule5:
+  class: File
+  path: python/breast-cancer-areola---primary.py
+inputModule6:
+  class: File
+  path: python/central-breast-cancer---primary.py
+inputModule7:
+  class: File
+  path: python/breast-cancer-nipple---primary.py
+inputModule8:
+  class: File
+  path: python/breast-cancer-quadrant---primary.py
+inputModule9:
+  class: File
+  path: python/axillary-breast-cancer---primary.py
+inputModule10:
+  class: File
+  path: python/breast-cancer-neoplasm---primary.py
+inputModule11:
+  class: File
+  path: python/other-breast-cancer---primary.py
+inputModule12:
+  class: File
+  path: python/ectopic-breast-cancer---primary.py
+inputModule13:
+  class: File
+  path: python/breast-cancer-tumour---primary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
